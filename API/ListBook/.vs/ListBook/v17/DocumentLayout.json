@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ManageBooks\\API\\ListBook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E81D8FB5-E80A-4F29-9E0E-F64895B2B736}|ListBook\\ListBook.csproj|d:\\managebooks\\api\\listbook\\listbook\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E81D8FB5-E80A-4F29-9E0E-F64895B2B736}|ListBook\\ListBook.csproj|solutionrelative:listbook\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81D8FB5-E80A-4F29-9E0E-F64895B2B736}|ListBook\\ListBook.csproj|d:\\managebooks\\api\\listbook\\listbook\\controllers\\models\\domain\\listbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E81D8FB5-E80A-4F29-9E0E-F64895B2B736}|ListBook\\ListBook.csproj|solutionrelative:listbook\\controllers\\models\\domain\\listbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81D8FB5-E80A-4F29-9E0E-F64895B2B736}|ListBook\\ListBook.csproj|d:\\managebooks\\api\\listbook\\listbook\\controllers\\models\\addbookrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E81D8FB5-E80A-4F29-9E0E-F64895B2B736}|ListBook\\ListBook.csproj|solutionrelative:listbook\\controllers\\models\\addbookrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81D8FB5-E80A-4F29-9E0E-F64895B2B736}|ListBook\\ListBook.csproj|d:\\managebooks\\api\\listbook\\listbook\\controllers\\models\\updatebookrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E81D8FB5-E80A-4F29-9E0E-F64895B2B736}|ListBook\\ListBook.csproj|solutionrelative:listbook\\controllers\\models\\updatebookrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateBookRequestDTO.cs",
+              "DocumentMoniker": "D:\\ManageBooks\\API\\ListBook\\ListBook\\Controllers\\Models\\UpdateBookRequestDTO.cs",
+              "RelativeDocumentMoniker": "ListBook\\Controllers\\Models\\UpdateBookRequestDTO.cs",
+              "ToolTip": "D:\\ManageBooks\\API\\ListBook\\ListBook\\Controllers\\Models\\UpdateBookRequestDTO.cs",
+              "RelativeToolTip": "ListBook\\Controllers\\Models\\UpdateBookRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T05:43:23.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddBookRequestDTO.cs",
+              "DocumentMoniker": "D:\\ManageBooks\\API\\ListBook\\ListBook\\Controllers\\Models\\AddBookRequestDTO.cs",
+              "RelativeDocumentMoniker": "ListBook\\Controllers\\Models\\AddBookRequestDTO.cs",
+              "ToolTip": "D:\\ManageBooks\\API\\ListBook\\ListBook\\Controllers\\Models\\AddBookRequestDTO.cs",
+              "RelativeToolTip": "ListBook\\Controllers\\Models\\AddBookRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T05:42:38.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListBooks.cs",
+              "DocumentMoniker": "D:\\ManageBooks\\API\\ListBook\\ListBook\\Controllers\\Models\\Domain\\ListBooks.cs",
+              "RelativeDocumentMoniker": "ListBook\\Controllers\\Models\\Domain\\ListBooks.cs",
+              "ToolTip": "D:\\ManageBooks\\API\\ListBook\\ListBook\\Controllers\\Models\\Domain\\ListBooks.cs",
+              "RelativeToolTip": "ListBook\\Controllers\\Models\\Domain\\ListBooks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T05:41:24.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "D:\\ManageBooks\\API\\ListBook\\ListBook\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "ListBook\\Controllers\\BooksController.cs",
+              "ToolTip": "D:\\ManageBooks\\API\\ListBook\\ListBook\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "ListBook\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAgwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T05:29:26.624Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
